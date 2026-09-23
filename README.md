@@ -1,7 +1,7 @@
 # HomeCheck_KratosX_Edition !!ONLY for-Whitemane-Frostmourne-3.3.5a!!
 
 
-# HomeCheck - KratosX Edition (For Whitemane Frostmourne WOTLK 3.3.5a)
+PLEASE NOTE: This specific addon version only works on Whitemane Frostmourne WOTLK 3.3.5a. If you want to use a version that works on all servers, please download my regular version here:
 
 Welcome to the **KratosX Edition** of HomeCheck. This version introduces crucial performance optimizations, automated tank filtering, dynamic talent tracking, and visual raid status indicators.
 Please note: This specific addon version only works on Whitemane Frostmourne WOTLK 3.3.5a. If you want to use a version that works on all servers, please download my regular version here:
