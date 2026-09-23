@@ -60,7 +60,7 @@ Please note: This specific addon version only works on Whitemane Frostmourne WOT
      Installation
 
 1. Download this repository as a `.zip` file.
-2. Extract only the "Homecheck" folder into your World of Warcraft directory: `Interface\AddOns\`.
+2. Extract and only drag the "Homecheck" folder into your World of Warcraft directory: `Interface\AddOns\`.
 3. Crucial: Ensure the folder is named exactly HomeCheck
 4. If you had previous versions installed try deleting settings file: WTF\Account\\<ACCOUNT_NAME\>\SavedVariables\HomeCheck.lua
 
