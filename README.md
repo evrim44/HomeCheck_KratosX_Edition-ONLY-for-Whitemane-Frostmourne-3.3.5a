@@ -2,7 +2,7 @@
 > [!WARNING]
 > **PLEASE NOTE:** This specific addon version only works on Whitemane Frostmourne WOTLK 3.3.5a. 
 > 
-> If you want to use a version that works on all servers, please download my regular version here:
+> If you want to use a version that works on all servers, please download my regular version [here]https://github.com/evrim44/HomeCheck_KratosX_Edition-For-all-wotlk-3.3.5a-servers
 
 <img width="622" height="560" alt="WoWScrnShot_092326_210208" src="https://github.com/user-attachments/assets/1b8af9f8-c4d2-476e-a1ad-14c942339d78" />
 
