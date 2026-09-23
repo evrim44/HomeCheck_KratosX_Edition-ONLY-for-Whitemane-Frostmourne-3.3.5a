@@ -4,6 +4,9 @@
 > 
 > If you want to use a version that works on all servers, please download my regular version here:
 
+<img width="622" height="560" alt="WoWScrnShot_092326_210208" src="https://github.com/user-attachments/assets/1b8af9f8-c4d2-476e-a1ad-14c942339d78" />
+
+
 Welcome to the **KratosX Edition** of HomeCheck. This version introduces crucial performance optimizations, automated tank filtering, dynamic talent tracking, and visual raid status indicators.
 
 
