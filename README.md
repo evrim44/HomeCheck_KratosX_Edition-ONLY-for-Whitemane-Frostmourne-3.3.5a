@@ -58,7 +58,7 @@ Welcome to the **KratosX Edition** of HomeCheck. This version introduces crucial
 
 ---
 
-     Installation
+## 🛠️ Installation
 
 1. Download this repository as a `.zip` file.
 2. Extract and only drag the "Homecheck" folder into your World of Warcraft directory: `Interface\AddOns\`.
