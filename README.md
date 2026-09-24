@@ -14,7 +14,7 @@ Welcome to the **KratosX Edition** of HomeCheck. This version introduces crucial
 
 # 1. Performance Loop Optimization
 - The core background loop for range checks and frame updates has been optimized.
-- The Benefit:** This dramatically reduces CPU utilization and eliminates micro-stutters during heavy raid encounters while still offering precise tracking.
+- The Benefit: This dramatically reduces CPU utilization and eliminates micro-stutters during heavy raid encounters while still offering precise tracking.
 
 # 2. Dynamic Hammer of Justice (HoJ) Tracking
 - Full support added for the *Improved Hammer of Justice
