@@ -38,9 +38,9 @@ Welcome to the **KratosX Edition** of HomeCheck. This version introduces crucial
 
 # 5. New Tank Cooldowns & "Tanks Only" Filtering
 - Expanded Spell Database: Added full tracking support for essential defensive Tank cooldowns across multiple classes:
-   **     Warrior: Shield Block
-   **       Druid: Survival Instincts
-   **    Death Knight: Unbreakable Armor
+- **Warrior**: Shield Block
+- **Druid**: Survival Instincts
+- **Death Knight**: Unbreakable Armor
 - Tanks Only Filter: Integrated these newly added defensive abilities, with the "Tanks only Toggle"
 
 # 6.  Dead Player Indicators & Desaturation
