@@ -41,6 +41,7 @@ Welcome to the **KratosX Edition** of HomeCheck. This version introduces crucial
 - **Warrior**: Shield Block
 - **Druid**: Survival Instincts
 - **Death Knight**: Unbreakable Armor
+  And some other new CDs
 - Tanks Only Filter: Integrated these newly added defensive abilities, with the "Tanks only Toggle"
 
 # 6.  Dead Player Indicators & Desaturation
