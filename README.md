@@ -18,9 +18,9 @@ Welcome to the **KratosX Edition** of HomeCheck. This version introduces crucial
 
 # 2. Dynamic Hammer of Justice (HoJ) Tracking
 - Full support added for the *Improved Hammer of Justice
-- 0/2 Points: **60 Seconds
-- 1/2 Points: **50 Seconds
-- 2/2 Points: **40 Seconds
+- 0/2 Points: **60 Seconds**
+- 1/2 Points: **50 Seconds**
+- 2/2 Points: **40 Seconds**
 
 # 3. Lay on Hands (LoH) Overhaul
 - Dedicated Visibility Button: Added a dedicated toggle button specifically for *Improved Lay on Hands*, allowing users to filter and show only this specific tracker if desired.
