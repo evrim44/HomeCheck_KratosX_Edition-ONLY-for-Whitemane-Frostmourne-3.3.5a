@@ -54,7 +54,7 @@ Welcome to the **KratosX Edition** of HomeCheck. This version introduces crucial
 - Raid Cooldown Reset: Fully restored and fixed the automatic raid cooldown cleanup functionality integrated with Deadly Boss Mods (DBM).
 - Instant Availability: Upon detecting a boss kill or a raid wipe via DBM, the addon instantly resets all active cooldown frames. This immediately updates the UI to show that all tracked abilities and major cooldowns are fully ready and available for the next pull, completely clearing out all ghost bars.
 
-# 8. Visuall changes
+# 8. Visual changes
 <img width="869" height="586" alt="2" src="https://github.com/user-attachments/assets/dda41ede-03a3-4730-afea-c4e75ac9566a" />
 
 
@@ -67,6 +67,7 @@ Welcome to the **KratosX Edition** of HomeCheck. This version introduces crucial
 2. Extract and only drag the "Homecheck" folder into your World of Warcraft directory: `Interface\AddOns\`.
 3. Crucial: Ensure the folder is named exactly HomeCheck
 4. If you had previous versions installed try deleting settings file: WTF\Account\\<ACCOUNT_NAME\>\SavedVariables\HomeCheck.lua
+5. Warperia Linmk https://warperia.com/addon-wotlk/homecheck-kratosx-edition-only-for-whitemane-frostmourne-3-3-5a/
 
 # Credits & License
 Based on the original Author Homerocker *HomeCheck*  core functionality. Modified by Kratosx, optimized, and heavily expanded with advanced tracking mechanics and server-side fixes. All bundled libraries (Ace3, LibGroupTalents) belong to their respective authors.
