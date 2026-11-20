@@ -72,3 +72,8 @@ Welcome to the **KratosX Edition** of HomeCheck. This version introduces crucial
 # Credits & License
 Based on the original Author Homerocker *HomeCheck*  core functionality. Modified by Kratosx, optimized, and heavily expanded with advanced tracking mechanics and server-side fixes. All bundled libraries (Ace3, LibGroupTalents) belong to their respective authors.
 
+Github Link: https://github.com/evrim44/HomeCheck_KratosX_Edition-ONLY-for-Whitemane-Frostmourne-3.3.5a
+
+Warperia Link: https://warperia.com/addon-wotlk/homecheck-kratosx-edition-only-for-whitemane-frostmourne-3-3-5a/
+
+
